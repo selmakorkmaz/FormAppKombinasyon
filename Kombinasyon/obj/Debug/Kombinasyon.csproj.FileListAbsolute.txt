@@ -1,0 +1,10 @@
+C:\Users\Selma\source\repos\Kombinasyon\Kombinasyon\bin\Debug\Kombinasyon.exe.config
+C:\Users\Selma\source\repos\Kombinasyon\Kombinasyon\bin\Debug\Kombinasyon.exe
+C:\Users\Selma\source\repos\Kombinasyon\Kombinasyon\bin\Debug\Kombinasyon.pdb
+C:\Users\Selma\source\repos\Kombinasyon\Kombinasyon\obj\Debug\Kombinasyon.csprojAssemblyReference.cache
+C:\Users\Selma\source\repos\Kombinasyon\Kombinasyon\obj\Debug\Kombinasyon.Form1.resources
+C:\Users\Selma\source\repos\Kombinasyon\Kombinasyon\obj\Debug\Kombinasyon.Properties.Resources.resources
+C:\Users\Selma\source\repos\Kombinasyon\Kombinasyon\obj\Debug\Kombinasyon.csproj.GenerateResource.cache
+C:\Users\Selma\source\repos\Kombinasyon\Kombinasyon\obj\Debug\Kombinasyon.csproj.CoreCompileInputs.cache
+C:\Users\Selma\source\repos\Kombinasyon\Kombinasyon\obj\Debug\Kombinasyon.exe
+C:\Users\Selma\source\repos\Kombinasyon\Kombinasyon\obj\Debug\Kombinasyon.pdb
